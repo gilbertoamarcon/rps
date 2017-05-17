@@ -7,6 +7,8 @@ To do so, it performs gradient descent on their relative distance equations.
 It requires at least 5 robots to converge. 
 A usage example code is provided in main.py.
 
+[Mathematical derivation of the method (PDF).](derivation.pdf)
+
 Usage:
 ```
 python main.py
